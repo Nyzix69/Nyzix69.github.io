@@ -1,11 +1,4 @@
----
-title: CTFs | FCSC2023 | Intro | Dystylosaurus
-author: BatBato
-date: 2023-05-02
-categories: [CTFs, FCSC2023, Intro]
-tags: [CTF, FCSC, SAL]
-permalink: /CTFs/FCSC2023/Intro/Dystylosaurus
----
+
 
 # Dystylosaurus
 

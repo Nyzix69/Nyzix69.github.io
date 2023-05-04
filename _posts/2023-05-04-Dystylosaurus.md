@@ -1,4 +1,11 @@
-
+---
+title: Dystylosaurus
+author: Nyzix
+date: 2023-05-04
+categories: []
+tags: [CTF, FCSC, SAL]
+permalink: /Dystylosaurus
+---
 
 # Dystylosaurus
 
